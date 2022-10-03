@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761235737534",
+    "project_id": "amarvalalagerna",
+    "storage_bucket": "amarvalalagerna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761235737534:android:1b2608c94f4deb881807ef",
+        "android_client_info": {
+          "package_name": "com.example.flutter_antaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761235737534-9ip5mtk1fdng90bci26p69ejsq4vkc7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uAfw8TE9GntRD6FC3DEgjoN4vhYt7sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761235737534-9ip5mtk1fdng90bci26p69ejsq4vkc7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
